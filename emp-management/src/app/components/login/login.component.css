@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    padding: 12rem 28rem;
+}
+
+.login-form {
+    padding: 5rem 0;
+}
+
+.login-card {
+    width: 40rem;
+}
+
+.email-field {
+    width: 30rem;
+}
+
+.password-field {
+    width: 30rem;
+}
